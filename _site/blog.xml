@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Home</title>
+<link>https://www.javierorracadeatcu.com/blog.html</link>
+<atom:link href="https://www.javierorracadeatcu.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Roberto Macrì Demartino&#39;s website built with R and Quarto</description>
+<generator>quarto-1.4.553</generator>
+<lastBuildDate>Thu, 05 Dec 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Alternative ranking measures to predict international football results</title>
+  <link>https://www.javierorracadeatcu.com/posts/alternative-ranking-measures-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Over the last few years, there has been a growing interest in the prediction and modelling of competitive sports outcomes, with particular emphasis placed on this area by the Bayesian statistics and machine learning communities. In this paper, we have carried out a comparative evaluation of statistical and machine learning models to assess their predictive performance for the 2022 FIFA World Cup and the 2023 CAF Africa Cup of Nations by evaluating alternative summaries of past performances related to the involved teams. More specifically, we consider the Bayesian Bradley-Terry-Davidson model, which is a widely used statistical framework for ranking items based on paired comparisons that have been applied successfully in various domains, including football. The analysis was performed including in some canonical goal-based models both the Bradley-Terry-Davidson derived ranking and the widely recognized Coca-Cola FIFA ranking commonly adopted by football fans and amateurs.</p>
+</section>
+<section id="additional-materials" class="level1">
+<h1>Additional Materials</h1>
+<ul>
+<li>Paper link: <a href="https://doi.org/10.1007/s00180-024-01585-z" class="uri">https://doi.org/10.1007/s00180-024-01585-z</a></li>
+<li>Source code: <a href="https://github.com/RoMaD-96/Bayesian_BTD" class="uri">https://github.com/RoMaD-96/Bayesian_BTD</a></li>
+</ul>
+</section>
+<section id="code-notes" class="level1">
+<h1>Code Notes</h1>
+<ul>
+<li>To reproduce the code use the <a href="https://cran.r-project.org/web/packages/footBayes/index.html%5D">footBayes</a> version 0.2.0</li>
+</ul>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
+  <category>Bayesian</category>
+  <category>Sport Analytics</category>
+  <guid>https://www.javierorracadeatcu.com/posts/alternative-ranking-measures-2024/</guid>
+  <pubDate>Thu, 05 Dec 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://www.javierorracadeatcu.com/posts/alternative-ranking-measures-2024/arrange_box_rank_WC_MAD.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Demographic insights for the endangered Apennine yellow-bellied toad in the Pollino National Park (Southern Italy). A five-year Capture-Mark-Recapture study</title>
+  <link>https://www.javierorracadeatcu.com/posts/bombina-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Investigating population structure, parameters, and growth over time is vital for conserving endangered taxa like the Apennine yellow-bellied toad (Bombina variegata pachypus) in Italy. The Apennine yellow-bellied toad faces habitat loss or degradation, disease, and climate change threats. Our study delves into the population dynamics of this endemic amphibian by monitoring populations in two breeding sites within the Pollino National Park (Southern Italy) using a five-year Capture-Mark-Recapture (CMR) approach. With a particular emphasis on demographic parameters such as population size, detectability, survival, temporary emigration probability, and body condition index, the research aims to contribute to understanding population dynamics and inform con- servation efforts. We used two CMR models to estimate these parameters: Jolly-Seber with POPAN para- metrisation and Pollock’s robust design with Huggins’ estimator. Results showed variation in body size between males and females, challenging previous findings in south-central Italy. For both populations, demographic data indicate high annual adult survival, fidelity to the breeding areas, support for no movement, and minimal trap response. Abundance over the years reveals a slight decline in one site and a gradual increase in the other. The estimated maximum population size indicated ~ 92 animals in one population and ~ 70 in the other one. Despite the high conservation concern for the Apennine yellow-bellied toad, there remains a dearth of quantitative in- formation on demographic aspects in Southern Italy. The findings underscore the importance of protected areas in biodiversity conservation and contribute to understanding the B. v. pachypus conservation status, suggesting that small, isolated populations may be vulnerable to unpredictable fluctuations, inbreeding depression, and extinction risks. Additionally, the research emphasises the importance of long-term CMR studies to gain insights into population dynamics and develop effective conservation strategies and management practices, particularly in the face of climate changes that may impact both the endemic taxon and its habitat.</p>
+</section>
+<section id="additional-materials" class="level1">
+<h1>Additional Materials</h1>
+<ul>
+<li>Paper link: <a href="https://doi.org/10.1016/j.jnc.2024.126656" class="uri">https://doi.org/10.1016/j.jnc.2024.126656</a></li>
+</ul>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
+  <guid>https://www.javierorracadeatcu.com/posts/bombina-2024/</guid>
+  <pubDate>Thu, 23 May 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.javierorracadeatcu.com/posts/bombina-2024/frogs.png" medium="image" type="image/png" height="68" width="144"/>
+</item>
+<item>
+  <title>Surgical treatment of hypertrophic obstructive cardiomyopathy in relatively elderly patients: Short- and long-term outcomes</title>
+  <link>https://www.javierorracadeatcu.com/posts/san-raffaele-2022/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Our goal was to assess the short- and long-term outcomes of surgical treatment for hypertrophic obstructive cardiomyopathy in patients <img src="https://latex.codecogs.com/png.latex?%E2%89%A565"> years of age compared to patients <img src="https://latex.codecogs.com/png.latex?%3C%2065"> years of age. Sixty-four patients aged <img src="https://latex.codecogs.com/png.latex?%E2%89%A565"> years, surgically treated for symptomatic hypertrophic obstructive cardiomyopathy, were compared to a control group of <img src="https://latex.codecogs.com/png.latex?125"> patients <img src="https://latex.codecogs.com/png.latex?%3C65"> years. Patients aged <img src="https://latex.codecogs.com/png.latex?%E2%89%A565"> years were less frequently male (<img src="https://latex.codecogs.com/png.latex?36%5C%25"> vs <img src="https://latex.codecogs.com/png.latex?68%5C%25">, <img src="https://latex.codecogs.com/png.latex?P%3C0.001">) and had higher EuroSCORE II scores [<img src="https://latex.codecogs.com/png.latex?1.4%20(1.1%E2%80%932.2)"> vs <img src="https://latex.codecogs.com/png.latex?0.8%20(0.7%E2%80%931.2)">, <img src="https://latex.codecogs.com/png.latex?P%3C0.001">], lower risk of sudden death, higher pulmonary artery pressure [<img src="https://latex.codecogs.com/png.latex?40%20(30%E2%80%9350)"> vs <img src="https://latex.codecogs.com/png.latex?30%20(30%E2%80%9343)">, <img src="https://latex.codecogs.com/png.latex?P=0.04">) and more mitral annulus calcifications (<img src="https://latex.codecogs.com/png.latex?44%5C%25"> vs <img src="https://latex.codecogs.com/png.latex?14%5C%25">, <img src="https://latex.codecogs.com/png.latex?P%3C0.001">) compared to younger patients. Hospital death was <img src="https://latex.codecogs.com/png.latex?1%5C%25">, with no difference between the 2 groups (<img src="https://latex.codecogs.com/png.latex?1.5%5C%25"> vs <img src="https://latex.codecogs.com/png.latex?0.8%5C%25">, <img src="https://latex.codecogs.com/png.latex?P=0.9">). Patients aged <img src="https://latex.codecogs.com/png.latex?%E2%89%A565"> years had more concomitant coronary bypass grafting (<img src="https://latex.codecogs.com/png.latex?12%5C%25"> vs <img src="https://latex.codecogs.com/png.latex?5%5C%25">, <img src="https://latex.codecogs.com/png.latex?P=0.05">) and a higher incidence of blood transfusions (<img src="https://latex.codecogs.com/png.latex?50%5C%25"> vs <img src="https://latex.codecogs.com/png.latex?17%5C%25">, <img src="https://latex.codecogs.com/png.latex?P%3C0.001">) and postoperative atrial fibrillation (<img src="https://latex.codecogs.com/png.latex?19%5C%25"> vs <img src="https://latex.codecogs.com/png.latex?8%5C%25">, <img src="https://latex.codecogs.com/png.latex?P=0.02">). Follow-up was <img src="https://latex.codecogs.com/png.latex?98%5C%25"> complete [median <img src="https://latex.codecogs.com/png.latex?8.3%20(5.3%E2%80%9312.8)"> years]. The 13-year survival in the group aged <img src="https://latex.codecogs.com/png.latex?%E2%89%A565"> was <img src="https://latex.codecogs.com/png.latex?54%20(SD:%209)%20%5C%25"> vs <img src="https://latex.codecogs.com/png.latex?83%20(SD:%205)%20%5C%25"> in the control group (<img src="https://latex.codecogs.com/png.latex?P%3C0.001">), but it was comparable to that expected in the age-sex matched general national population. At 13 years, the cumulative incidence function of cardiac death in the elderly group was <img src="https://latex.codecogs.com/png.latex?19%20(SD:%207)%5C%25">, mostly unrelated to hypertrophic cardiomyopathy causes. At the last follow-up, <img src="https://latex.codecogs.com/png.latex?90%5C%25"> of patients were in New York Heart Association functional class I-II and <img src="https://latex.codecogs.com/png.latex?68%5C%25"> were in sinus rhythm. Selected elderly symptomatic patients with hypertrophic obstructive cardiomyopathy can benefit from surgery, with low hospital mortality and morbidity, relief of symptoms and late survival comparable to that expected in the age-sex matched general population.</p>
+</section>
+<section id="additional-materials" class="level1">
+<h1>Additional Materials</h1>
+<ul>
+<li>Paper link: <a href="https://doi.org/10.1016/j.jnc.2024.126656" class="uri">https://doi.org/10.1016/j.jnc.2024.126656</a></li>
+</ul>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
+  <guid>https://www.javierorracadeatcu.com/posts/san-raffaele-2022/</guid>
+  <pubDate>Mon, 11 Apr 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://www.javierorracadeatcu.com/posts/san-raffaele-2022/san_raffaele.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+</channel>
+</rss>

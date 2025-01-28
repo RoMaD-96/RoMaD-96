@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: "docs"
+  
+website:
+  title: "Home"
+  description: "Roberto Macrì Demartino's website built with R and Quarto"
+  open-graph: true
+  navbar:
+    left:
+      - text: Publications
+        href: blog.qmd
+      # - text: Resources
+      #   menu:
+      #     - text: "Roberto's Resources"
+      #       href: resources.qmd
+      #     - text: R for Data Science
+      #       href: https://r4ds.hadley.nz/
+      #       target: _blank
+      #     - text: Tidyverse
+      #       href: https://www.tidyverse.org/
+      #       target: _blank
+      #     - text: Tidymodels
+      #       href: https://www.tidymodels.org/
+      #       target: _blank
+      #     - text: Tidyverse Style Guide
+      #       href: https://style.tidyverse.org/
+      #       target: _blank
+      # - text: About
+      #   href: about.qmd
+  page-footer:
+    left: >-
+     &#169; 2024 Roberto Macrì Demartino &#8729; Made with [Quarto](https://quarto.org)
+    center: |
+      <a class="link-dark me-1" href="https://www.linkedin.com/in/roberto-macr%C3%AD-demartino-a51459204/" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
+      <a class="link-dark me-1" href="https://github.com/RoMaD-96" title="Github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://orcid.org/0000-0002-5296-6566" title="OrcId" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+      <a class="link-dark me-1" href="https://scholar.google.com/citations?user=eAGkT8kAAAAJ&hl=it" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
+
+format:
+  html:
+    theme:
+      light: [flatly, assets/theme-light.scss]
+      dark: [darkly, assets/theme-dark.scss]
+    fontsize: 1.0em
+    code-copy: true
+    code-overflow: wrap
+
+webr: 
+  show-startup-message: false
+  show-header-message: false
+  channel-type: 'post-message'
+  
+  
+  

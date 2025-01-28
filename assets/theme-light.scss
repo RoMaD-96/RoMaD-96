@@ -1,0 +1,84 @@
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+/*-- scss:defaults --*/
+$navbar-bg: #7c0a06;
+$font-family-base: 'Montserrat', sans-serif;
+$success: #298bbe !default;
+
+// Custom Variables
+$retro: 'Roboto', cursive;
+
+/*-- scss:rules --*/
+
+/*#title-block-header.quarto-title-block.default .quarto-title .title {
+  font-family: $dracula;
+  font-size: $font-size-base * 4;
+  text-shadow: 3px 3px 0 rgba(206, 32, 41, 1);
+}
+*/
+#title-block-header.quarto-title-block.default .quarto-title .title {
+  font-family: $retro;
+  font-size: $font-size-base * 2;
+  margin-top: 30px;
+  line-height: 0.8;
+}
+
+p.subtitle.lead {
+  font-family: $font-family-base;
+  font-size: $font-size-base * 1;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding-top: 0px !important;
+}
+
+
+.about-image {
+  margin-top: 1.5em;
+}
+
+#webr-run-button-1.btn.btn-default.btn-webr,
+#webr-run-button-2.btn.btn-default.btn-webr,
+#webr-run-button-3.btn.btn-default.btn-webr,
+#webr-run-button-4.btn.btn-default.btn-webr,
+.termsfeed-com---palette-light .cc-nb-okagree {
+  background-color: #3e0503;
+}
+
+
+nav.navbar.navbar-expand-lg {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* About Links Styling */
+
+
+div.quarto-about-solana .about-entity .about-link {
+  font-size: 1em;
+  border-style: none;
+  transition: all .35s ease;
+}
+
+div.quarto-about-solana .about-entity .about-link:hover {
+  transform: scale(1.2);
+  color: #7c0a06;
+
+}
+
+div.quarto-about-solana .about-entity .about-links {
+  column-gap: 0;
+}
+
+@media(max-width: 991.98px) {
+  div.quarto-about-solana .about-entity .about-links {
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
+
+.hcenter {
+  text-align: center;
+}

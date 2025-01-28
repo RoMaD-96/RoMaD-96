@@ -1,0 +1,23 @@
+---
+title: "Surgical treatment of hypertrophic obstructive cardiomyopathy in relatively elderly patients: Short- and long-term outcomes"
+subtitle: "Elisabetta Lapenna, Teodora Nisi, Davide Carino, Benedetto Del Forno, Stefania Ruggeri, Davide Schiavi, Roberta Meneghin, Roberto Macrì Demartino, Alessandro Castiglioni, Francesco Maisano, Ottavio Alfieri, Michele De Bonis"
+description: "European Journal of Cardio-Thoracic Surgery"
+date: 04-12-2022
+image: san_raffaele.png
+
+---
+
+
+# Abstract
+
+Our goal was to assess the short- and long-term outcomes of surgical treatment for hypertrophic obstructive cardiomyopathy in patients $≥65$ years of age compared to patients $< 65$ years of age. Sixty-four patients aged $≥65$ years, surgically treated for symptomatic hypertrophic obstructive cardiomyopathy, were compared to a control group of $125$ patients $<65$ years. Patients aged $≥65$ years were less frequently male ($36\%$ vs $68\%$, $P<0.001$) and had higher EuroSCORE II scores [$1.4 (1.1–2.2)$ vs $0.8 (0.7–1.2)$, $P<0.001$], lower risk of sudden death, higher pulmonary artery pressure [$40 (30–50)$ vs $30 (30–43)$, $P=0.04$) and more mitral annulus calcifications ($44\%$ vs $14\%$, $P<0.001$) compared to younger patients.
+Hospital death was $1\%$, with no difference between the 2 groups ($1.5\%$ vs $0.8\%$, $P=0.9$).
+Patients aged $≥65$ years had more concomitant coronary bypass grafting ($12\%$ vs $5\%$, $P=0.05$) and a higher incidence of blood transfusions ($50\%$ vs $17\%$, $P<0.001$) and postoperative atrial fibrillation ($19\%$ vs $8\%$, $P=0.02$).
+Follow-up was $98\%$ complete [median $8.3 (5.3–12.8)$ years]. The 13-year survival in the group aged $≥65$ was $54 (SD: 9) \%$ vs $83 (SD: 5) \%$ in the control group ($P<0.001$), but it was comparable to that expected in the age-sex matched general national population.
+At 13 years, the cumulative incidence function of cardiac death in the elderly group was $19 (SD: 7)\%$, mostly unrelated to hypertrophic cardiomyopathy causes.
+At the last follow-up, $90\%$ of patients were in New York Heart Association functional class I-II and $68\%$ were in sinus rhythm.
+Selected elderly symptomatic patients with hypertrophic obstructive cardiomyopathy can benefit from surgery, with low hospital mortality and morbidity, relief of symptoms and late survival comparable to that expected in the age-sex matched general population.
+
+# Additional Materials
+
+-   Paper link: <https://doi.org/10.1016/j.jnc.2024.126656>
