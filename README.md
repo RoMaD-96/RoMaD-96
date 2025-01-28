@@ -1,6 +1,4 @@
-# Personal Blog using Quarto
-
-Every few years, I like to update my personal data science website using bleeding-edge web frameworks. Several years back, I built my first data science blog using the R Markdown + [blogdown](https://bookdown.org/yihui/blogdown/) framework, then I ported it to the R Markdown + [distill](https://rstudio.github.io/distill/) framework, and this latest iteration of my site is built with Quarto.
+My personal webpage using Quarto.
 
 # About Quarto
 
