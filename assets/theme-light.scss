@@ -8,7 +8,7 @@ $font-family-base: 'Montserrat', sans-serif;
 $success: #298bbe !default;
 
 // Custom Variables
-$retro: 'Roboto', cursive;
+$retro: 'Montserrat', sans-serif;
 
 /*-- scss:rules --*/
 
@@ -22,7 +22,7 @@ $retro: 'Roboto', cursive;
   font-family: $retro;
   font-size: $font-size-base * 2;
   margin-top: 30px;
-  line-height: 0.8;
+  line-height: 1.5;
 }
 
 p.subtitle.lead {

@@ -8,7 +8,7 @@ $font-family-base: 'Montserrat', sans-serif;
 $success: #ad0e08 !default;
 
 // Custom Variables
-$retro: 'Roboto', cursive;
+$retro: 'Montserrat', sans-serif;
 
 /*-- scss:rules --*/
 
@@ -21,7 +21,7 @@ $retro: 'Roboto', cursive;
 #title-block-header.quarto-title-block.default .quarto-title .title {
   font-family: $retro;
   font-size: $font-size-base * 2;
-  line-height: 0.8;
+  line-height: 1.5;
 }
 
 p.subtitle.lead {
