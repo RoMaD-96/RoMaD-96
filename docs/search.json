@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Roberto Macrì Demartino",
+    "section": "",
+    "text": "Hi! I am Roberto, a Postdoctoral Researcher in Statistics at the Department of Economics, Business, Mathematics and Statistics “Bruno de Finetti” of the University of Trieste. I am interested in developing and applying Bayesian statistical methods for borrowing historical information, in replication studies, survival analysis, and sports analytics.\nI earned both my B.Sc. and M.Sc. in Statistics at the University of Calabria. I then pursued a Ph.D. in Statistical Science at the University of Padova under the supervision of Prof. Nicola Torelli and Prof. Leonardo Egidi, with a dissertation on Bayesian methods for borrowing historical information. During my Ph.D. journey, I had the opportunity of being visiting research scholar at the Athens University of Economics and Business under the supervison of Prof. Ioannis Ntzoufras and the University of Zurich under the supervision of Prof. Leonhard Held.\n\n\n\n\nPh.D. in Statistical Science, 2024\nUniversity of Padova, Italy\nM.Sc. in Statistics and Computer Science, 2021\nUniversity of Calabria, Italy\nB.Sc. in Statistics, 2018\nUniversity of Calabria, Italy\n\n\n\n\n\nBayesian methods\nPrior elicitation\nReplication studies\nSurvival analysis\nModels for sports data\nHistorical information borrowing\nMixture models"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Roberto Macrì Demartino",
+    "section": "",
+    "text": "Ph.D. in Statistical Science, 2024\nUniversity of Padova, Italy\nM.Sc. in Statistics and Computer Science, 2021\nUniversity of Calabria, Italy\nB.Sc. in Statistics, 2018\nUniversity of Calabria, Italy"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Roberto Macrì Demartino",
+    "section": "",
+    "text": "Bayesian methods\nPrior elicitation\nReplication studies\nSurvival analysis\nModels for sports data\nHistorical information borrowing\nMixture models"
+  },
+  {
+    "objectID": "work_referral.html",
+    "href": "work_referral.html",
+    "title": "Read for Work Referrals",
+    "section": "",
+    "text": "Disclaimer: Before we get to the good stuff below, please note that the views expressed below are mine alone and do not reflect the views of my employer."
+  },
+  {
+    "objectID": "work_referral.html#hello-world",
+    "href": "work_referral.html#hello-world",
+    "title": "Read for Work Referrals",
+    "section": "Hello, World!",
+    "text": "Hello, World!\nIf you’re reading this, I truly appreciate you connecting with me about work at Centene Corporation. Whether you’re approaching the end of your education, looking to switch jobs, perhaps you’re desiring a mid-career pivot to “data science” (something I did later in my career)… It is never easy, it is uncomfortable and repetitive, and generally the whole process feels broken. I feel for you, and please know that I legitimately want to try to help you if I can."
+  },
+  {
+    "objectID": "work_referral.html#a-bit-about-centene",
+    "href": "work_referral.html#a-bit-about-centene",
+    "title": "Read for Work Referrals",
+    "section": "A Bit About Centene",
+    "text": "A Bit About Centene\n\nCentene is a huge company. We have approximately 70,000 employees and provide healthcare insurance to 28 million members. We operate a bit like a portfolio management company, albeit, somewhat under the radar - By that I mean, despite Centene generating revenues of $154 billion (USD) in 2023 and landing us on the Fortune 25 list, “Centene” is not particularly a household name like other national health insurance companies such as Aetna, BlueCross BlueShield, Kaiser Permanente, or United Healthcare… This is largely by design and also because of the inorganic growth (via acquisitions) that Centene has made over the last 10 years.\nCentene operates its health plans at the State level and it is these brand names that have become household names in the respective communities they serve, e.g., Health Net (our California offering), Peach State Health Plan (our Georgia plan), Superior HealthPlan (our Texas plan), Fidelis (our New York plan), WellCare, Ambetter, etc.\nCentene is a publicly traded, “managed care” health insurance carrier that primarily works with government-sponsored insurance products. The bulk of our members are on Medicaid (low-income households) and Medicare (65 and older). Managed care is a type of health insurance plan that aims to reduce costs while maintaining high quality of care. Managed care plans have contracts with medical facilities and health care providers to provide care for members at reduced costs."
+  },
+  {
+    "objectID": "work_referral.html#a-bit-about-data-science-at-centene",
+    "href": "work_referral.html#a-bit-about-data-science-at-centene",
+    "title": "Read for Work Referrals",
+    "section": "A Bit About Data Science at Centene",
+    "text": "A Bit About Data Science at Centene\nAs stated in the above section, we have almost 70,000 employees. While I work for Centene’s Data Science Center of Excellence (we call it the Data Science & AI Hub), we make up a small fraction of the data science horsepower at Centene - There are Data Analysts, Data Scientists, Analytics Engineers, Machine Learning Engineers, Cloud Engineers, Statistical Programmers, Biostatisticians, Business Analysts, Actuaries and Finance professionals, and many other ad hoc teams that code or work in data science adjacent spaces.\nIf you truly enjoy analytics, data science, machine learning, engineering, etc., you’ll love the stack that is at our disposal. On a regular basis, I get to work with GitLab (git repos and CI/CD), Jupyter Hub, VS Code (for Python), RStudio (for R), Databricks (for experimentation, training with Spark clusters, feature store management, model registry, and serving LLM model endpoints), Snowflake (data warehouse), Kubernetes (orchestration), AWS (storage), and those are just some of the many tools that I regularly use. Some teams develop more on the Microsoft Azure stack, some are more focused on chat bots, statistics, web app development, several teams are already developing and deploying GenAI + LLM solutions… LOTS of interesting things going on at Centene and I’d recommend this place to anybody who is driven and eager to learn/share new methods around data and ML/AI.\nI help plan meetups and workshops with Centene’s R User Group and we have 100-150 regular attendees from across the country. There are many more Python developers. There is a ton of collaboration but even then, I likely won’t know specifics of the role that you’re interested in. This leads me to my next section…"
+  },
+  {
+    "objectID": "work_referral.html#help-me-help-you",
+    "href": "work_referral.html#help-me-help-you",
+    "title": "Read for Work Referrals",
+    "section": "Help Me Help You",
+    "text": "Help Me Help You\nI receive about 1-5 LinkedIn messages per day asking if I can refer them to a Centene position. Unfortunately, I do not run a recruiting or hiring agency (although maybe I should 😅). That said, I do want to help you!\nCentene does not have a formal internal referral application system. If the position you’re interested in turns out to be in my org or for a close colleague’s team, I will certainly reach back out to you to discuss in more detail.\nIt goes without saying but given the competitive landscape, it is in your best interest to revise your resume to highlight your skills and experiences in a way that addresses the requirements of the position you’re interested in.\nPlease follow the steps below and let me know if you have any questions or concerns:\n\nApply for the role you found on the Centene careers site\n\nIf I do actually know you from a networking event, UC workshop, SoCal RUG meetup, or some other way we’ve met, then of course I’ll give the hiring team a heads up about how we met\n\nOnce your application is submitted, forward your confirmation email to javier.orraca@centene.com\n\nAttach a copy of your resume\nWrite a few sentences in that email explaining why you’re interested in the position that you applied to and also what interests you about Centene (or healthcare in general)\nI want to be able to forward your email to Recruiting and the hiring team, and this will really help me help you!\nWhen Recruiting or the hiring team ask me how I know you, please understand that I plan to be honest and say that we don’t actually know each other if we’re strictly LinkedIn connections\n\n\nBest of luck!"
+  },
+  {
+    "objectID": "posts/alternative-ranking-measures-2024/index.html",
+    "href": "posts/alternative-ranking-measures-2024/index.html",
+    "title": "Alternative ranking measures to predict international football results",
+    "section": "",
+    "text": "Abstract\nOver the last few years, there has been a growing interest in the prediction and modelling of competitive sports outcomes, with particular emphasis placed on this area by the Bayesian statistics and machine learning communities. In this paper, we have carried out a comparative evaluation of statistical and machine learning models to assess their predictive performance for the 2022 FIFA World Cup and the 2023 CAF Africa Cup of Nations by evaluating alternative summaries of past performances related to the involved teams. More specifically, we consider the Bayesian Bradley-Terry-Davidson model, which is a widely used statistical framework for ranking items based on paired comparisons that have been applied successfully in various domains, including football. The analysis was performed including in some canonical goal-based models both the Bradley-Terry-Davidson derived ranking and the widely recognized Coca-Cola FIFA ranking commonly adopted by football fans and amateurs.\n\n\nAdditional Materials\n\nPaper link: https://doi.org/10.1007/s00180-024-01585-z\nSource code: https://github.com/RoMaD-96/Bayesian_BTD\n\n\n\nCode Notes\n\nTo reproduce the code use the footBayes version 0.2.0\n\n\n\n\n\nReuseCC BY 4.0"
+  },
+  {
+    "objectID": "posts/bombina-2024/index.html",
+    "href": "posts/bombina-2024/index.html",
+    "title": "Demographic insights for the endangered Apennine yellow-bellied toad in the Pollino National Park (Southern Italy). A five-year Capture-Mark-Recapture study",
+    "section": "",
+    "text": "Abstract\nInvestigating population structure, parameters, and growth over time is vital for conserving endangered taxa like the Apennine yellow-bellied toad (Bombina variegata pachypus) in Italy. The Apennine yellow-bellied toad faces habitat loss or degradation, disease, and climate change threats. Our study delves into the population dynamics of this endemic amphibian by monitoring populations in two breeding sites within the Pollino National Park (Southern Italy) using a five-year Capture-Mark-Recapture (CMR) approach. With a particular emphasis on demographic parameters such as population size, detectability, survival, temporary emigration probability, and body condition index, the research aims to contribute to understanding population dynamics and inform con- servation efforts. We used two CMR models to estimate these parameters: Jolly-Seber with POPAN para- metrisation and Pollock’s robust design with Huggins’ estimator. Results showed variation in body size between males and females, challenging previous findings in south-central Italy. For both populations, demographic data indicate high annual adult survival, fidelity to the breeding areas, support for no movement, and minimal trap response. Abundance over the years reveals a slight decline in one site and a gradual increase in the other. The estimated maximum population size indicated ~ 92 animals in one population and ~ 70 in the other one. Despite the high conservation concern for the Apennine yellow-bellied toad, there remains a dearth of quantitative in- formation on demographic aspects in Southern Italy. The findings underscore the importance of protected areas in biodiversity conservation and contribute to understanding the B. v. pachypus conservation status, suggesting that small, isolated populations may be vulnerable to unpredictable fluctuations, inbreeding depression, and extinction risks. Additionally, the research emphasises the importance of long-term CMR studies to gain insights into population dynamics and develop effective conservation strategies and management practices, particularly in the face of climate changes that may impact both the endemic taxon and its habitat.\n\n\nAdditional Materials\n\nPaper link: https://doi.org/10.1016/j.jnc.2024.126656\n\n\n\n\n\nReuseCC BY 4.0"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "A fresh look brought to you by Generative AI"
+  },
+  {
+    "objectID": "about.html#professional",
+    "href": "about.html#professional",
+    "title": "About Me",
+    "section": "Professional",
+    "text": "Professional\nMy career includes over 18 years of leadership and individual contributor roles across the spectrum of data science, financial strategy, and business analytics for EY, PG&E, KPMG, and Centene. I use tools like R, SQL, Python, GitLab, Posit’s Workbench + Connect, and Databricks on a daily basis. My teams apply data science techniques to empower decision makers with descriptive, predictive, and prescriptive insights. As part of Centene’s AI Center of Excellence, I develop and deploy automation pipelines, predictive models, interactive web apps, simulations, packages, REST APIs, and more."
+  },
+  {
+    "objectID": "about.html#scatter-podcast",
+    "href": "about.html#scatter-podcast",
+    "title": "About Me",
+    "section": "Scatter Podcast",
+    "text": "Scatter Podcast\nIn 2019, I launched Scatter Podcast to share career tips and insights from data science leaders for students, business managers, and professionals looking to pivot into data science. It was a fun and incredibly rewarding side project but after 30 episodes, I started to feel fatigued with the amount of time it took to plan, record, edit, market, etc. The podcast is on hold but not dead!"
+  },
+  {
+    "objectID": "about.html#data-science-mlops-toolkit",
+    "href": "about.html#data-science-mlops-toolkit",
+    "title": "About Me",
+    "section": "Data Science & MLOps Toolkit",
+    "text": "Data Science & MLOps Toolkit\n\nR: tidyverse, tidymodels, Quarto, XGBoost, Prophet, sparklyr, torch, Keras (+ TensorFlow), Shiny, Plotly, Leaflet, webR, devtools, usethis, dbplyr (communicate with databases by writing in dplyr syntax to create complex [or basic!] ETL and analytics pipelines that convert your dplyr code to SQL in the backend 🚀), and more\nDevOps + MLOps: GitLab (+ CI/CD), GitHub (+ Actions/Workflows), Databricks (+ MLFlow), Docker, Posit Connect, Kubernetes, Rancher, Ubuntu, Bash\nData: Snowflake, Teradata, Databricks Unity Catalog, Apache Arrow, Apache Parquet, DuckDB, Polars, AWS S3, AWS Redshift, NetApp StorageGRID, Google BigQuery\nOther: Python (I’m objectively terrible but w/ llama3.1, I’ve been known to impress myself and my team 🏆), Jupyter Notebooks, Agile Scrum (& the tools that surround it, e.g., Jira, ServiceNow, Miro, etc.), Netlify"
+  },
+  {
+    "objectID": "about.html#media-presentations",
+    "href": "about.html#media-presentations",
+    "title": "About Me",
+    "section": "Media + Presentations",
+    "text": "Media + Presentations\n\n[2024-04-27] UC Irvine hackathon talk on ETL with Arrow & DuckDB\n[2023-09-26] SoCal RUG presentation on Highlights from Posit’s 2023 Annual Conference\n[2023-09-25] R Consortium interview on Empowering Healthcare with R: Javier Orraca-Deatcu’s Journey from Finance to Predictive Health Models\n[2023-03-21] SoCal RUG presentation on How to Build a Shiny App Demo as a Cover Letter Accessory\n[2022-12-08] Posit hosted me on their Data Science Hangout to discuss Excel to Data Science to Machine Learning Engineering\n[2021-10-15] UC Irvine’s inaugural Latinx Initiative Conference\n[2021-06-09] Data Points: Healthcare and Finance virtual conference hosted by Grid Dynamics\n\nWatch my presentation Healthcare Finance Beyond Excel: R for Automation, Time Series Forecasting, and Interactive Reporting\n\n[2019-06-13] Scatter Podcast on UC Irvine News\n[2019-05-20] Winner of the Orange County Predictive Modeling Hackathon\n[2019-04-14] Scatter Podcast mention on Forbes"
+  },
+  {
+    "objectID": "posts/san-raffaele-2022/index.html",
+    "href": "posts/san-raffaele-2022/index.html",
+    "title": "Surgical treatment of hypertrophic obstructive cardiomyopathy in relatively elderly patients: Short- and long-term outcomes",
+    "section": "",
+    "text": "Abstract\nOur goal was to assess the short- and long-term outcomes of surgical treatment for hypertrophic obstructive cardiomyopathy in patients \\(≥65\\) years of age compared to patients \\(&lt; 65\\) years of age. Sixty-four patients aged \\(≥65\\) years, surgically treated for symptomatic hypertrophic obstructive cardiomyopathy, were compared to a control group of \\(125\\) patients \\(&lt;65\\) years. Patients aged \\(≥65\\) years were less frequently male (\\(36\\%\\) vs \\(68\\%\\), \\(P&lt;0.001\\)) and had higher EuroSCORE II scores [\\(1.4 (1.1–2.2)\\) vs \\(0.8 (0.7–1.2)\\), \\(P&lt;0.001\\)], lower risk of sudden death, higher pulmonary artery pressure [\\(40 (30–50)\\) vs \\(30 (30–43)\\), \\(P=0.04\\)) and more mitral annulus calcifications (\\(44\\%\\) vs \\(14\\%\\), \\(P&lt;0.001\\)) compared to younger patients. Hospital death was \\(1\\%\\), with no difference between the 2 groups (\\(1.5\\%\\) vs \\(0.8\\%\\), \\(P=0.9\\)). Patients aged \\(≥65\\) years had more concomitant coronary bypass grafting (\\(12\\%\\) vs \\(5\\%\\), \\(P=0.05\\)) and a higher incidence of blood transfusions (\\(50\\%\\) vs \\(17\\%\\), \\(P&lt;0.001\\)) and postoperative atrial fibrillation (\\(19\\%\\) vs \\(8\\%\\), \\(P=0.02\\)). Follow-up was \\(98\\%\\) complete [median \\(8.3 (5.3–12.8)\\) years]. The 13-year survival in the group aged \\(≥65\\) was \\(54 (SD: 9) \\%\\) vs \\(83 (SD: 5) \\%\\) in the control group (\\(P&lt;0.001\\)), but it was comparable to that expected in the age-sex matched general national population. At 13 years, the cumulative incidence function of cardiac death in the elderly group was \\(19 (SD: 7)\\%\\), mostly unrelated to hypertrophic cardiomyopathy causes. At the last follow-up, \\(90\\%\\) of patients were in New York Heart Association functional class I-II and \\(68\\%\\) were in sinus rhythm. Selected elderly symptomatic patients with hypertrophic obstructive cardiomyopathy can benefit from surgery, with low hospital mortality and morbidity, relief of symptoms and late survival comparable to that expected in the age-sex matched general population.\n\n\nAdditional Materials\n\nPaper link: https://doi.org/10.1093/ejcts/ezac229\n\n\n\n\n\nReuseCC BY 4.0"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Alternative ranking measures to predict international football results\n\n\nRoberto Macrì Demartino, Leonardo Egidi, Nicola Torelli\n\n\n\nBayesian\n\n\nSport Analytics\n\n\n\nComputational Statistics\n\n\n\n\n\nDec 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDemographic insights for the endangered Apennine yellow-bellied toad in the Pollino National Park (Southern Italy). A five-year Capture-Mark-Recapture study\n\n\nIlaria Bernabò, Viviana Cittadino, Vittoria Marchianò, Lea Anna Cozzucoli, Giuseppe De Bonis, Roberto Macrì Demartino, Antonio Romano\n\n\nJournal for Nature Conservation\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSurgical treatment of hypertrophic obstructive cardiomyopathy in relatively elderly patients: Short- and long-term outcomes\n\n\nElisabetta Lapenna, Teodora Nisi, Davide Carino, Benedetto Del Forno, Stefania Ruggeri, Davide Schiavi, Roberta Meneghin, Roberto Macrì Demartino, Alessandro Castiglioni, Francesco Maisano, Ottavio Alfieri, Michele De Bonis\n\n\nEuropean Journal of Cardio-Thoracic Surgery\n\n\n\n\n\nApr 12, 2022\n\n\n\n\n\n\nNo matching items"
+  }
+]
