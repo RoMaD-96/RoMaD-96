@@ -6,5 +6,18 @@
       "/posts/bombina-2024/index.html",
       "/posts/san-raffaele-2022/index.html"
     ]
+  },
+  {
+    "listing": "/softwares.html",
+    "items": [
+      "/packages/footBayes/index.html"
+    ]
+  },
+  {
+    "listing": "/software.html",
+    "items": [
+      "/packages/footBayes/index.html",
+      "/packages/repmix/index.html"
+    ]
   }
 ]

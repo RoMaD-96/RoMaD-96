@@ -1,0 +1,19 @@
+---
+title: "repmix: A robust Bayesian approach for replication studies using mixture priors"
+subtitle: "Samuel Pawel and Roberto Macrì Dematino"
+description: "R Package"
+image: posterior.png
+---
+
+# Description
+
+`repmix` is an R package for Bayesian estimation and testing of effect sizes based on data from an original study and its replication using a mixture prior framework. For more information, see the [ArXiv preprint](https://arxiv.org/abs/2406.19152).
+
+# Installation
+
+You can install the development version from [GitHub](https://github.com/SamCH93/repmix) with
+
+``` r
+# install.packages("devtools")
+devtools::install_github("SamCH93/repmix")
+```

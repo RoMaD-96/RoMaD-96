@@ -10,6 +10,8 @@ website:
     left:
       - text: Publications
         href: blog.qmd
+      - text: Software
+        href: software.qmd
       # - text: Resources
       #   menu:
       #     - text: "Roberto's Resources"

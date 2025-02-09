@@ -1,0 +1,16 @@
+---
+title: ""
+listing:
+  contents: packages
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+page-layout: full
+title-block-banner: false
+comments: false
+---
+
+# R Packages
