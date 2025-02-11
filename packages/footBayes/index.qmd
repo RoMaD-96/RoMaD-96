@@ -1,6 +1,6 @@
 ---
 title: "footBayes: Fitting Bayesian and MLE football models in R"
-subtitle: "Leonardo Egidi, Roberto Macrì Dematino, and Vasilis Palaskas"
+subtitle: "Leonardo Egidi, Roberto Macrì Demartino, and Vasilis Palaskas"
 description: "R Package"
 image: foot_rank_plot.jpg
 

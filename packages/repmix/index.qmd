@@ -1,6 +1,6 @@
 ---
 title: "repmix: A robust Bayesian approach for replication studies using mixture priors"
-subtitle: "Samuel Pawel and Roberto Macrì Dematino"
+subtitle: "Samuel Pawel and Roberto Macrì Demartino"
 description: "R Package"
 image: posterior.png
 ---
