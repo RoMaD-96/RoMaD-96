@@ -2,7 +2,7 @@
 title: "Roberto Macrì Demartino"
 pagetitle: "Roberto Macrì Demartino"
 subtitle: "Postdoctoral Researcher in Statistics at the University of Trieste"
-image: ./images/personal_image.png
+image: ./images/Roberto_Profile.jpg
 about:
   template: solana
   image-width: 15em
