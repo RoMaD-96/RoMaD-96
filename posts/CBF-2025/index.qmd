@@ -1,0 +1,32 @@
+---
+title: "Eliciting prior information from clinical trials via calibrated Bayes factor"
+subtitle: "Roberto Macrì Demartino, Leonardo Egidi, Nicola Torelli, and Ioannis Ntzoufras"
+description: "Computational Statistics and Data Analysis"
+date: 03-31-2025
+categories: [Bayesian]
+image: lollipop_melanoma.jpg
+---
+
+# Abstract
+
+In the Bayesian framework power prior distributions are increasingly adopted in clinical trials
+and similar studies to incorporate external and past information, typically to inform the parameter
+associated with a treatment effect. Their use is particularly effective in scenarios with small sample
+sizes and where robust prior information is available. A crucial component of this methodology
+is represented by its weight parameter, which controls the volume of historical information
+incorporated into the current analysis. Although this parameter can be modeled as either fixed
+or random, eliciting its prior distribution via a full Bayesian approach remains challenging. In
+general, this parameter should be carefully selected to accurately reflect the available historical
+information without dominating the posterior inferential conclusions. A novel simulation-based
+calibrated Bayes factor procedure is proposed to elicit the prior distribution of the weight
+parameter, allowing it to be updated according to the strength of the evidence in the data.
+The goal is to facilitate the integration of historical data when there is agreement with current
+information and to limit it when discrepancies arise in terms, for instance, of prior-data conflicts.
+The performance of the proposed method is tested through simulation studies and applied to real
+data from clinical trials.
+
+# Additional Material
+
+-   Paper link: <https://doi.org/10.1016/j.csda.2025.108180>
+-   Source code: <https://github.com/RoMaD-96/CBFpp>
+
