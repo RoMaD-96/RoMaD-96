@@ -1,0 +1,21 @@
+---
+title: "Mixture priors for replication studies"
+subtitle: "Roberto Macrì Demartino, Leonardo Egidi, Leonhard Held, and Samuel Pawel"
+description: "Statistical Science (Accepted for publication)"
+date: 01-01-2026
+date-format: "YYYY"
+categories: [Bayesian]
+image: comp_plot-1.png
+---
+
+# Abstract
+
+Replication of scientific studies is important for assessing the credibility of their results. However, there is no consensus on how to quantify the extent to which a replication study replicates an original result. We propose a novel Bayesian approach  for replication studies based on mixture priors.
+The idea is to use a mixture of the posterior distribution based on the original study and a non-informative distribution as the prior for the analysis of the replication study. The mixture weight then determines the extent to which the original and replication data are pooled.
+Two distinct strategies are presented: one with fixed mixture weights, and one that introduces uncertainty by assigning a prior distribution to the mixture weight itself. Furthermore, it is shown how within this framework Bayes factors can be used for formal testing of relevant scientific hypotheses, such as tests on the presence or absence of an effect or whether the mixture weight equals zero (completely discounting the original data) or one (fully pooling with the original data). To showcase the practical application of the methodology, we analyze data from three replication studies. Our findings suggest that mixture priors are a valuable and intuitive alternative to other Bayesian methods for analyzing replication studies, such as hierarchical models and power priors. We provide the free and open source R package \texttt{repmix} that implements the proposed methodology.
+
+# Additional Material
+
+-   Statistical Science future papers link: <https://imstat.org/journals-and-publications/statistical-science/statistical-science-future-papers/>
+-   Source code: <https://github.com/RoMaD-96/MixRep>
+
