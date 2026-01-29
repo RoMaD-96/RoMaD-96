@@ -37,7 +37,7 @@ execute:
 ::: {style="text-align: left;"}
 # About me
 
-Hi! I am Roberto, a Postdoctoral Researcher in Statistics at the [Department of Economics, Business, Mathematics and Statistics “Bruno de Finetti”](https://deams.units.it/en/department/people/macr%C3%AD-demartino-roberto/317936) of the [University of Trieste](https://portale.units.it/en). I am interested in developing and applying Bayesian statistical methods for borrowing historical information, in replication studies, survival analysis, and sports analytics.
+Hi! I am Roberto, a Postdoctoral Researcher in Bayesian statistics at the [Department of Economics, Business, Mathematics and Statistics “Bruno de Finetti”](https://deams.units.it/en/department/people/macr%C3%AD-demartino-roberto/317936) of the [University of Trieste](https://portale.units.it/en). I am interested in developing and applying Bayesian statistical methods for borrowing historical information, in replication studies, survival analysis, and sports analytics.
 
 I earned both my B.Sc. and M.Sc. in Statistics at the [University of Calabria](https://www.unical.it/?lang=en). I then pursued a Ph.D. in Statistical Science at the [University of Padova](https://www.unipd.it/en/) under the supervision of [Prof. Nicola Torelli](https://scholar.google.it/citations?user=l5fIs0wAAAAJ&hl=it) and [Prof. Leonardo Egidi](https://scholar.google.it/citations?hl=it&user=Ux1LY_Qx7T8C), with a dissertation on Bayesian methods for borrowing historical information. During my Ph.D. journey, I had the opportunity of being visiting research scholar at the [Athens University of Economics and Business](https://www.aueb.gr/en) under the supervision of [Prof. Ioannis Ntzoufras](https://scholar.google.it/citations?user=nZahG6wAAAAJ&hl=it) and the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of [Prof. Leonhard Held](https://scholar.google.it/citations?hl=it&user=KKqXo7sAAAAJ).
 :::
@@ -47,7 +47,7 @@ I earned both my B.Sc. and M.Sc. in Statistics at the [University of Calabria](h
 ::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
 ## Education
 
-- **_Ph.D._ in Statistical Science**, **2024**  
+- **_Ph.D._ in Statistical Science**, **2025**  
   *University of Padova, Italy*
 
 - **_M.Sc._ in Statistics and Computer Science**, **2021**  
