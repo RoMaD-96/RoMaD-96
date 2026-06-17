@@ -1,0 +1,19 @@
+---
+title: "Bayesian weighted discrete-time dynamic models for association football prediction"
+subtitle: "Roberto Macrì Demartino, Leonardo Egidi, Nicola Torelli"
+description: "Journal of the Royal Statistical Society Series C"
+date: 06-09-2026
+categories: [Bayesian]
+image: BayesWDFM.jpg
+---
+
+# Abstract
+
+In recent years, great emphasis has been placed on the prediction of association football. Due to this, several studies have proposed different types of statistical models to predict the outcome of a football match. However, most existing approaches usually assume that the offensive and defensive abilities of teams remain static over time. We introduce a Bayesian dynamic approach for football goal-based models that uses commensurate priors to flexibly weight the evolution of attacking and defensive abilities. Our approach assigns separate, time-varying precision parameters to each team and ability in every period, controlled via spike-and-slab hyperpriors. This adaptive shrinkage borrows information about teams' strength when past and current performance aligns and allows rapid adjustments when teams experience substantial changes (e.g., transfer windows or coaching changes). We integrate this framework into  five standard goal-based models evaluating predictive performance using data from the last five seasons of the German Bundesliga, English Premier League, and Spanish La Liga. Compared with three leading dynamic approaches, our adaptive approach yields better predictive performance. The proposed methodology has also been implemented in the free and open source R package \texttt{footBayes}
+
+# Additional Material
+
+-   Paper link: <https://doi.org/10.1093/jrsssc/qlag032>
+-   Source code: <https://github.com/RoMaD-96/BayesWDFM>
+
+
