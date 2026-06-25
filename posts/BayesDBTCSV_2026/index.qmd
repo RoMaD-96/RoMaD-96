@@ -1,0 +1,18 @@
+---
+title: "Bayesian dynamic Bradley-Terry model with commensurate spike-and-slab priors"
+subtitle: "Roberto Macrì Demartino, Leonardo Egidi, and Nicola Torelli"
+description: "Journal of Big Data (Accepted for publication)"
+date: 05-31-2026
+date-format: "YYYY"
+categories: [Bayesian]
+image: plot_teams.jpg
+---
+
+# Abstract
+
+We propose a Bayesian dynamic Bradley-Terry model that introduces team- and time-specific commensurate spike-and-slab priors on the innovation precisions governing the evolution of teams' strength parameter. This sparse state-space allows the model to adaptively borrow information from a team's past performance, strongly shrinking towards it when performance is stable or switching to a more diffuse prior to capture sudden changes.  We apply our model to the last ten NBA seasons consisting of 12,841 matches played across the regular season, NBA Cup, play-in tournament, and playoffs. The results show that the model captures major changes in team performance that align with well-documented events such as roster changes and injuries. Furthermore, out-of-sample predictions exhibit better forecasting accuracy compared to two well-known dynamic models, particularly in later playoff stages, as measured by lower Brier scores. These findings suggest that the proposed model provides a valid dynamic extension of the Bradley-Terry model, incorporating adaptive temporal borrowing to improve both interpretability and predictive performance.
+
+# Additional Material
+
+-   Source code: <https://github.com/RoMaD-96/BayesDBTCSV>
+
